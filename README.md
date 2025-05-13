@@ -28,7 +28,7 @@
 
 ### 1. 克隆项目
 ```bash
-git clone <项目仓库地址>
+git clone https://github.com/LiuShiyanga/smart-shopping-guide
 cd smart-shopping-guide
 ```
 
